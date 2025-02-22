@@ -1,0 +1,15 @@
+{
+  "name": "haxball-futsal-host",
+  "version": "1.0.0",
+  "description": "Host de Haxball para torneos 1vs1 de Futsal",
+  "main": "server1.js",
+  "scripts": {
+    "start": "node server1.js"
+  },
+  "dependencies": {
+    "haxball.js": "^2.1.1"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
